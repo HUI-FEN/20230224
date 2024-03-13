@@ -1,4 +1,4 @@
- import random
+import random
 import pyinputplus as pyip
 
 def play_game():
